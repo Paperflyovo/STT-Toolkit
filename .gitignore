@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+tmp/
+build/
+dist/
+*.spec
+models/*
+!models/.gitkeep
+data/
+exports/
+*.wav
+*.flac
+*.mp3
+*.mp4
+.env
+.env.*
